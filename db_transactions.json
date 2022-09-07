@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "name": "fdg",
+      "type": "income",
+      "amount": 565,
+      "id": 1
+    },
+    {
+      "name": "jhk",
+      "type": "expense",
+      "amount": 7868,
+      "id": 3
+    }
+  ]
+}
